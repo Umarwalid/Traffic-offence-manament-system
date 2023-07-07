@@ -1,0 +1,286 @@
+/*createacct*/
+
+.backgound{
+    background-color:rgb(48, 46, 46);
+    
+}
+.createacct{margin-top: 00px;
+    position: relative;
+    height: 850px;
+}
+.createaccte{margin-top: 00px;
+    position: relative;
+    height: 800px;
+}
+.inputbox{
+  float: left;
+  
+width: 700px;
+height: 139px;
+
+background: #D6D6D6;
+border-radius: 10px;
+}
+
+.labelstyle{
+    color: #05224B;
+    font-family: Saira;
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 50px;
+
+
+}
+label {display:block;}
+textarea { display:block;}
+
+.input{
+    padding-right: 10%;
+    padding-left: 10%;
+    width: 50%;
+    margin-top: 1%;
+}
+
+.buttonpos1{
+    font-size: 50px;
+    position: absolute;
+    bottom:   0%;
+    right: 0%;
+    
+}
+
+.buttonpos2{
+    font-size: 50px;
+    position: absolute;
+    bottom:   0%;
+    left: 0%;
+}
+
+/*login*/
+
+.login{
+    height:700px;
+    position: relative;
+    left: 0%;
+    background-image:url("images/");
+    color: rgb(232, 189, 134);
+}
+
+.inputbox2{
+    float: left;
+
+  width: 400px;
+  height: 50px;
+  font-size: 40px;
+ 
+  border-radius: 10px;
+  }
+  .inputbox2[type="text"], textarea {
+
+    background-color : #d1d1d1; 
+  
+  }
+  
+  .labelstyle2{
+      color: #05224B;
+      font-family: 'Saira';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 151px;
+  
+ 
+  
+
+
+  
+
+  
+  }
+  .labelstyle2b{
+    color: #05224B;
+    font-family: Saira;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 100px;
+padding-left: 2%;
+
+
+
+}
+
+
+
+.input2{
+   
+    padding-left: 25%;
+    width: 60%;
+    left: 50%;
+    height: 20%;
+ 
+}
+
+.buttonpos1s{
+    font-size: 50px;
+    position: absolute;
+    bottom:   0%;
+    right: 35%;
+    float:left;
+    margin-bottom: 12%;
+    
+}
+.buttonpos1b{
+    font-size: 50px;
+    position: absolute;
+    bottom:   0%;
+    right: 20%;
+    float:right;
+    margin-bottom: 10%;
+    
+}
+.buttonpos1ca{
+    font-size: 50px;
+    position: absolute;
+    bottom:   1%;
+    right: 5%;
+    float:left;
+    
+    
+}
+.buttonpos2b{
+    font-size: 50px;
+    position: absolute;
+    bottom:   0%;
+    left: 5%;
+}
+
+.buttonpos2c{
+    font-size: 50px;
+    position: absolute;
+    bottom:   0%;
+    left: 15%;
+}
+
+/*homepage*/
+
+/* Modify brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    margin: 0%;
+	color: green;
+}
+
+.mainpage{
+    height:  700px;
+    position: relative;
+}
+.maintitle{
+    text-align:right ;
+    font-family: Saira;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 45px;
+color: #05224B;
+/*background-color: ;*/
+margin-left: 30%;
+}
+
+.leftbar{
+    height: 100%;
+    width: 15%;
+    float:left;
+    border-top: 1px solid #05224B;
+    border-right: 1px solid #05224B;
+}
+.accountname{
+    text-align:center ;
+    font-family: Saira;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+color: #05224B;
+}
+.mainbody{
+    border-top:1px solid #05224B ;
+    font-size: 20px;
+    color: #05224B;
+    text-align: center;
+   
+    width: 85%;
+    float:right;
+    height: 100%;
+background: #ffffff;
+}
+
+
+.buttonpos3{
+    color: #05224B;
+    font-family: Saira;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    padding-top: 70px;
+    text-align: center;
+    width: 100%; height: 20%;background: #17CB07; float: left; ;
+    border:1px solid #05224B ; 
+    padding-bottom: 20%;
+}
+.button2{
+    width: 300px; height: 100px;background: #17CB07;
+    border-radius: 99px;
+    float: left;
+   
+}
+
+
+
+/*verify*/
+.verify{
+    height:600px;
+    position: relative;
+}
+
+/*initiate*/
+.verifys{
+    height:900px;
+    position: relative;
+}
+
+HTML,BODY,FORM{
+    height: 100%;
+}
+
+.buttonpos4{
+    font-size: 50px;
+    position: absolute;
+    bottom:   50%;
+    right: 0%;
+}
+
+/*Details*/
+
+.Details{margin-top: 100px;
+    position: relative;
+    height: 1800px;
+}
+
+
+.success{
+   
+    border: 5px solid rgb(0, 0, 0);
+    height: 1300px;
+    width:80%;
+    margin-left:8%;
+    position: relative;
+    background-color: rgb(255, 0, 0);
+}
+
+.buttonpos{
+    position:absolute;
+    margin-top:10%;
+    margin-left:40%
+}
